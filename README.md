@@ -1,1 +1,1 @@
-# chat-with-your-data
+# Chat with your data
